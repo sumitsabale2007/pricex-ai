@@ -1,0 +1,226 @@
+brand,model,ram_gb,storage_gb,battery_mah,price_inr,amazon_link,flipkart_link
+Samsung,Galaxy A 1,4,256,5500,86500,https://amazon.in/samsung-1,https://flipkart.com/samsung-1
+Samsung,Galaxy A 2,8,128,4500,17000,https://amazon.in/samsung-2,https://flipkart.com/samsung-2
+Samsung,Galaxy A 3,6,64,5500,113500,https://amazon.in/samsung-3,https://flipkart.com/samsung-3
+Samsung,Galaxy A 4,4,512,5500,19500,https://amazon.in/samsung-4,https://flipkart.com/samsung-4
+Samsung,Galaxy A 5,12,128,4500,103000,https://amazon.in/samsung-5,https://flipkart.com/samsung-5
+Samsung,Galaxy A 6,8,512,5000,58500,https://amazon.in/samsung-6,https://flipkart.com/samsung-6
+Samsung,Galaxy A 7,6,512,5500,69000,https://amazon.in/samsung-7,https://flipkart.com/samsung-7
+Samsung,Galaxy A 8,4,256,5500,70000,https://amazon.in/samsung-8,https://flipkart.com/samsung-8
+Samsung,Galaxy A 9,6,512,4500,19500,https://amazon.in/samsung-9,https://flipkart.com/samsung-9
+Samsung,Galaxy A 10,8,256,5500,118000,https://amazon.in/samsung-10,https://flipkart.com/samsung-10
+Samsung,Galaxy A 11,12,128,5000,116000,https://amazon.in/samsung-11,https://flipkart.com/samsung-11
+Samsung,Galaxy A 12,4,256,5000,69000,https://amazon.in/samsung-12,https://flipkart.com/samsung-12
+Samsung,Galaxy A 13,12,512,5500,77000,https://amazon.in/samsung-13,https://flipkart.com/samsung-13
+Samsung,Galaxy A 14,4,512,5500,44000,https://amazon.in/samsung-14,https://flipkart.com/samsung-14
+Samsung,Galaxy A 15,12,512,6000,50500,https://amazon.in/samsung-15,https://flipkart.com/samsung-15
+Samsung,Galaxy S 1,4,512,6000,40000,https://amazon.in/samsung-1,https://flipkart.com/samsung-1
+Samsung,Galaxy S 2,6,512,5000,73000,https://amazon.in/samsung-2,https://flipkart.com/samsung-2
+Samsung,Galaxy S 3,6,512,5000,119000,https://amazon.in/samsung-3,https://flipkart.com/samsung-3
+Samsung,Galaxy S 4,4,64,4500,99500,https://amazon.in/samsung-4,https://flipkart.com/samsung-4
+Samsung,Galaxy S 5,4,512,5000,18500,https://amazon.in/samsung-5,https://flipkart.com/samsung-5
+Samsung,Galaxy S 6,12,512,6000,32500,https://amazon.in/samsung-6,https://flipkart.com/samsung-6
+Samsung,Galaxy S 7,4,512,5000,27000,https://amazon.in/samsung-7,https://flipkart.com/samsung-7
+Samsung,Galaxy S 8,8,512,6000,36500,https://amazon.in/samsung-8,https://flipkart.com/samsung-8
+Samsung,Galaxy S 9,8,64,5000,68500,https://amazon.in/samsung-9,https://flipkart.com/samsung-9
+Samsung,Galaxy S 10,6,128,5000,58500,https://amazon.in/samsung-10,https://flipkart.com/samsung-10
+Samsung,Galaxy S 11,8,512,5000,117000,https://amazon.in/samsung-11,https://flipkart.com/samsung-11
+Samsung,Galaxy S 12,4,64,6000,42000,https://amazon.in/samsung-12,https://flipkart.com/samsung-12
+Samsung,Galaxy S 13,4,128,5000,77000,https://amazon.in/samsung-13,https://flipkart.com/samsung-13
+Samsung,Galaxy S 14,8,128,5500,104500,https://amazon.in/samsung-14,https://flipkart.com/samsung-14
+Samsung,Galaxy S 15,12,256,5000,52000,https://amazon.in/samsung-15,https://flipkart.com/samsung-15
+Samsung,Galaxy M 1,12,128,5500,14000,https://amazon.in/samsung-1,https://flipkart.com/samsung-1
+Samsung,Galaxy M 2,4,256,4500,114500,https://amazon.in/samsung-2,https://flipkart.com/samsung-2
+Samsung,Galaxy M 3,6,512,6000,63000,https://amazon.in/samsung-3,https://flipkart.com/samsung-3
+Samsung,Galaxy M 4,8,128,5000,18000,https://amazon.in/samsung-4,https://flipkart.com/samsung-4
+Samsung,Galaxy M 5,12,256,4500,31000,https://amazon.in/samsung-5,https://flipkart.com/samsung-5
+Samsung,Galaxy M 6,8,128,6000,34500,https://amazon.in/samsung-6,https://flipkart.com/samsung-6
+Samsung,Galaxy M 7,4,512,4500,82000,https://amazon.in/samsung-7,https://flipkart.com/samsung-7
+Samsung,Galaxy M 8,8,128,5500,101500,https://amazon.in/samsung-8,https://flipkart.com/samsung-8
+Samsung,Galaxy M 9,4,512,4500,105000,https://amazon.in/samsung-9,https://flipkart.com/samsung-9
+Samsung,Galaxy M 10,8,128,5000,45000,https://amazon.in/samsung-10,https://flipkart.com/samsung-10
+Samsung,Galaxy M 11,8,128,5500,33000,https://amazon.in/samsung-11,https://flipkart.com/samsung-11
+Samsung,Galaxy M 12,8,128,4500,94500,https://amazon.in/samsung-12,https://flipkart.com/samsung-12
+Samsung,Galaxy M 13,12,128,5000,110000,https://amazon.in/samsung-13,https://flipkart.com/samsung-13
+Samsung,Galaxy M 14,4,512,4500,25000,https://amazon.in/samsung-14,https://flipkart.com/samsung-14
+Samsung,Galaxy M 15,8,512,5500,92500,https://amazon.in/samsung-15,https://flipkart.com/samsung-15
+Apple,iPhone 1,4,256,6000,18000,https://amazon.in/apple-1,https://flipkart.com/apple-1
+Apple,iPhone 2,6,64,5000,102000,https://amazon.in/apple-2,https://flipkart.com/apple-2
+Apple,iPhone 3,12,256,5500,112500,https://amazon.in/apple-3,https://flipkart.com/apple-3
+Apple,iPhone 4,12,512,5500,15500,https://amazon.in/apple-4,https://flipkart.com/apple-4
+Apple,iPhone 5,4,256,5500,10500,https://amazon.in/apple-5,https://flipkart.com/apple-5
+Apple,iPhone 6,4,512,5500,96500,https://amazon.in/apple-6,https://flipkart.com/apple-6
+Apple,iPhone 7,8,256,4500,99000,https://amazon.in/apple-7,https://flipkart.com/apple-7
+Apple,iPhone 8,8,128,6000,11000,https://amazon.in/apple-8,https://flipkart.com/apple-8
+Apple,iPhone 9,12,64,5500,59500,https://amazon.in/apple-9,https://flipkart.com/apple-9
+Apple,iPhone 10,4,64,4500,118500,https://amazon.in/apple-10,https://flipkart.com/apple-10
+Apple,iPhone 11,4,512,5500,12000,https://amazon.in/apple-11,https://flipkart.com/apple-11
+Apple,iPhone 12,12,128,5000,109000,https://amazon.in/apple-12,https://flipkart.com/apple-12
+Apple,iPhone 13,4,512,5000,49500,https://amazon.in/apple-13,https://flipkart.com/apple-13
+Apple,iPhone 14,8,256,4500,21500,https://amazon.in/apple-14,https://flipkart.com/apple-14
+Apple,iPhone 15,8,64,5000,31500,https://amazon.in/apple-15,https://flipkart.com/apple-15
+OnePlus,Nord 1,12,256,5500,13500,https://amazon.in/oneplus-1,https://flipkart.com/oneplus-1
+OnePlus,Nord 2,4,512,6000,25000,https://amazon.in/oneplus-2,https://flipkart.com/oneplus-2
+OnePlus,Nord 3,12,256,6000,94000,https://amazon.in/oneplus-3,https://flipkart.com/oneplus-3
+OnePlus,Nord 4,12,512,4500,71000,https://amazon.in/oneplus-4,https://flipkart.com/oneplus-4
+OnePlus,Nord 5,12,512,5500,28000,https://amazon.in/oneplus-5,https://flipkart.com/oneplus-5
+OnePlus,Nord 6,4,128,5000,12500,https://amazon.in/oneplus-6,https://flipkart.com/oneplus-6
+OnePlus,Nord 7,6,256,5000,16500,https://amazon.in/oneplus-7,https://flipkart.com/oneplus-7
+OnePlus,Nord 8,12,256,5500,59500,https://amazon.in/oneplus-8,https://flipkart.com/oneplus-8
+OnePlus,Nord 9,8,128,6000,11000,https://amazon.in/oneplus-9,https://flipkart.com/oneplus-9
+OnePlus,Nord 10,4,64,5000,69000,https://amazon.in/oneplus-10,https://flipkart.com/oneplus-10
+OnePlus,Nord 11,6,128,6000,97000,https://amazon.in/oneplus-11,https://flipkart.com/oneplus-11
+OnePlus,Nord 12,8,128,4500,32000,https://amazon.in/oneplus-12,https://flipkart.com/oneplus-12
+OnePlus,Nord 13,4,64,4500,90000,https://amazon.in/oneplus-13,https://flipkart.com/oneplus-13
+OnePlus,Nord 14,12,256,5500,74000,https://amazon.in/oneplus-14,https://flipkart.com/oneplus-14
+OnePlus,Nord 15,12,128,4500,80000,https://amazon.in/oneplus-15,https://flipkart.com/oneplus-15
+OnePlus,OnePlus 1,12,256,5000,18000,https://amazon.in/oneplus-1,https://flipkart.com/oneplus-1
+OnePlus,OnePlus 2,4,256,5000,46500,https://amazon.in/oneplus-2,https://flipkart.com/oneplus-2
+OnePlus,OnePlus 3,8,256,5500,47500,https://amazon.in/oneplus-3,https://flipkart.com/oneplus-3
+OnePlus,OnePlus 4,6,64,6000,107500,https://amazon.in/oneplus-4,https://flipkart.com/oneplus-4
+OnePlus,OnePlus 5,6,256,5500,57500,https://amazon.in/oneplus-5,https://flipkart.com/oneplus-5
+OnePlus,OnePlus 6,4,256,4500,64500,https://amazon.in/oneplus-6,https://flipkart.com/oneplus-6
+OnePlus,OnePlus 7,12,256,5500,55000,https://amazon.in/oneplus-7,https://flipkart.com/oneplus-7
+OnePlus,OnePlus 8,12,256,4500,87500,https://amazon.in/oneplus-8,https://flipkart.com/oneplus-8
+OnePlus,OnePlus 9,12,512,4500,23500,https://amazon.in/oneplus-9,https://flipkart.com/oneplus-9
+OnePlus,OnePlus 10,8,64,6000,34000,https://amazon.in/oneplus-10,https://flipkart.com/oneplus-10
+OnePlus,OnePlus 11,8,128,5000,42000,https://amazon.in/oneplus-11,https://flipkart.com/oneplus-11
+OnePlus,OnePlus 12,4,512,4500,119500,https://amazon.in/oneplus-12,https://flipkart.com/oneplus-12
+OnePlus,OnePlus 13,8,512,5500,98000,https://amazon.in/oneplus-13,https://flipkart.com/oneplus-13
+OnePlus,OnePlus 14,12,64,6000,88000,https://amazon.in/oneplus-14,https://flipkart.com/oneplus-14
+OnePlus,OnePlus 15,4,64,5500,33000,https://amazon.in/oneplus-15,https://flipkart.com/oneplus-15
+Xiaomi,Redmi Note 1,6,512,6000,72500,https://amazon.in/xiaomi-1,https://flipkart.com/xiaomi-1
+Xiaomi,Redmi Note 2,12,64,5000,21500,https://amazon.in/xiaomi-2,https://flipkart.com/xiaomi-2
+Xiaomi,Redmi Note 3,6,128,6000,89500,https://amazon.in/xiaomi-3,https://flipkart.com/xiaomi-3
+Xiaomi,Redmi Note 4,8,256,6000,118500,https://amazon.in/xiaomi-4,https://flipkart.com/xiaomi-4
+Xiaomi,Redmi Note 5,12,128,6000,51000,https://amazon.in/xiaomi-5,https://flipkart.com/xiaomi-5
+Xiaomi,Redmi Note 6,6,512,5000,24500,https://amazon.in/xiaomi-6,https://flipkart.com/xiaomi-6
+Xiaomi,Redmi Note 7,4,64,6000,19000,https://amazon.in/xiaomi-7,https://flipkart.com/xiaomi-7
+Xiaomi,Redmi Note 8,4,512,6000,107000,https://amazon.in/xiaomi-8,https://flipkart.com/xiaomi-8
+Xiaomi,Redmi Note 9,6,256,5000,30500,https://amazon.in/xiaomi-9,https://flipkart.com/xiaomi-9
+Xiaomi,Redmi Note 10,8,64,6000,95500,https://amazon.in/xiaomi-10,https://flipkart.com/xiaomi-10
+Xiaomi,Redmi Note 11,12,64,4500,113000,https://amazon.in/xiaomi-11,https://flipkart.com/xiaomi-11
+Xiaomi,Redmi Note 12,6,512,5000,67500,https://amazon.in/xiaomi-12,https://flipkart.com/xiaomi-12
+Xiaomi,Redmi Note 13,6,64,6000,97500,https://amazon.in/xiaomi-13,https://flipkart.com/xiaomi-13
+Xiaomi,Redmi Note 14,12,128,5500,27500,https://amazon.in/xiaomi-14,https://flipkart.com/xiaomi-14
+Xiaomi,Redmi Note 15,12,512,6000,57500,https://amazon.in/xiaomi-15,https://flipkart.com/xiaomi-15
+Xiaomi,Mi 1,8,256,5500,99500,https://amazon.in/xiaomi-1,https://flipkart.com/xiaomi-1
+Xiaomi,Mi 2,6,64,5500,18000,https://amazon.in/xiaomi-2,https://flipkart.com/xiaomi-2
+Xiaomi,Mi 3,6,256,5000,58000,https://amazon.in/xiaomi-3,https://flipkart.com/xiaomi-3
+Xiaomi,Mi 4,8,128,4500,86000,https://amazon.in/xiaomi-4,https://flipkart.com/xiaomi-4
+Xiaomi,Mi 5,4,64,5000,52500,https://amazon.in/xiaomi-5,https://flipkart.com/xiaomi-5
+Xiaomi,Mi 6,4,128,5500,57000,https://amazon.in/xiaomi-6,https://flipkart.com/xiaomi-6
+Xiaomi,Mi 7,6,128,6000,87500,https://amazon.in/xiaomi-7,https://flipkart.com/xiaomi-7
+Xiaomi,Mi 8,8,128,6000,58000,https://amazon.in/xiaomi-8,https://flipkart.com/xiaomi-8
+Xiaomi,Mi 9,12,256,5000,53500,https://amazon.in/xiaomi-9,https://flipkart.com/xiaomi-9
+Xiaomi,Mi 10,4,128,6000,92500,https://amazon.in/xiaomi-10,https://flipkart.com/xiaomi-10
+Xiaomi,Mi 11,6,512,5000,34000,https://amazon.in/xiaomi-11,https://flipkart.com/xiaomi-11
+Xiaomi,Mi 12,12,512,4500,11000,https://amazon.in/xiaomi-12,https://flipkart.com/xiaomi-12
+Xiaomi,Mi 13,4,256,5500,18500,https://amazon.in/xiaomi-13,https://flipkart.com/xiaomi-13
+Xiaomi,Mi 14,8,256,5000,110500,https://amazon.in/xiaomi-14,https://flipkart.com/xiaomi-14
+Xiaomi,Mi 15,4,512,4500,48000,https://amazon.in/xiaomi-15,https://flipkart.com/xiaomi-15
+Xiaomi,Poco 1,4,256,5000,119500,https://amazon.in/xiaomi-1,https://flipkart.com/xiaomi-1
+Xiaomi,Poco 2,8,128,4500,15500,https://amazon.in/xiaomi-2,https://flipkart.com/xiaomi-2
+Xiaomi,Poco 3,8,64,5500,66000,https://amazon.in/xiaomi-3,https://flipkart.com/xiaomi-3
+Xiaomi,Poco 4,6,512,5000,55500,https://amazon.in/xiaomi-4,https://flipkart.com/xiaomi-4
+Xiaomi,Poco 5,8,256,6000,68000,https://amazon.in/xiaomi-5,https://flipkart.com/xiaomi-5
+Xiaomi,Poco 6,12,256,6000,34500,https://amazon.in/xiaomi-6,https://flipkart.com/xiaomi-6
+Xiaomi,Poco 7,8,64,5000,58500,https://amazon.in/xiaomi-7,https://flipkart.com/xiaomi-7
+Xiaomi,Poco 8,12,128,4500,81500,https://amazon.in/xiaomi-8,https://flipkart.com/xiaomi-8
+Xiaomi,Poco 9,12,512,5000,71000,https://amazon.in/xiaomi-9,https://flipkart.com/xiaomi-9
+Xiaomi,Poco 10,12,128,5000,66000,https://amazon.in/xiaomi-10,https://flipkart.com/xiaomi-10
+Xiaomi,Poco 11,12,64,5500,86500,https://amazon.in/xiaomi-11,https://flipkart.com/xiaomi-11
+Xiaomi,Poco 12,8,64,6000,77500,https://amazon.in/xiaomi-12,https://flipkart.com/xiaomi-12
+Xiaomi,Poco 13,8,64,4500,67500,https://amazon.in/xiaomi-13,https://flipkart.com/xiaomi-13
+Xiaomi,Poco 14,6,64,6000,78000,https://amazon.in/xiaomi-14,https://flipkart.com/xiaomi-14
+Xiaomi,Poco 15,4,64,5000,21000,https://amazon.in/xiaomi-15,https://flipkart.com/xiaomi-15
+Realme,Realme 1,4,256,5000,117000,https://amazon.in/realme-1,https://flipkart.com/realme-1
+Realme,Realme 2,6,64,4500,12000,https://amazon.in/realme-2,https://flipkart.com/realme-2
+Realme,Realme 3,8,64,5000,63000,https://amazon.in/realme-3,https://flipkart.com/realme-3
+Realme,Realme 4,8,64,4500,60500,https://amazon.in/realme-4,https://flipkart.com/realme-4
+Realme,Realme 5,4,256,4500,46500,https://amazon.in/realme-5,https://flipkart.com/realme-5
+Realme,Realme 6,12,64,6000,109000,https://amazon.in/realme-6,https://flipkart.com/realme-6
+Realme,Realme 7,12,256,5500,55000,https://amazon.in/realme-7,https://flipkart.com/realme-7
+Realme,Realme 8,6,128,6000,81500,https://amazon.in/realme-8,https://flipkart.com/realme-8
+Realme,Realme 9,6,512,4500,23000,https://amazon.in/realme-9,https://flipkart.com/realme-9
+Realme,Realme 10,4,64,6000,13500,https://amazon.in/realme-10,https://flipkart.com/realme-10
+Realme,Realme 11,8,128,4500,109000,https://amazon.in/realme-11,https://flipkart.com/realme-11
+Realme,Realme 12,8,64,5000,78000,https://amazon.in/realme-12,https://flipkart.com/realme-12
+Realme,Realme 13,12,512,6000,61500,https://amazon.in/realme-13,https://flipkart.com/realme-13
+Realme,Realme 14,6,512,5500,72500,https://amazon.in/realme-14,https://flipkart.com/realme-14
+Realme,Realme 15,6,512,5000,56500,https://amazon.in/realme-15,https://flipkart.com/realme-15
+Realme,Narzo 1,4,128,6000,46000,https://amazon.in/realme-1,https://flipkart.com/realme-1
+Realme,Narzo 2,12,512,4500,14500,https://amazon.in/realme-2,https://flipkart.com/realme-2
+Realme,Narzo 3,8,128,5000,74500,https://amazon.in/realme-3,https://flipkart.com/realme-3
+Realme,Narzo 4,4,128,6000,51500,https://amazon.in/realme-4,https://flipkart.com/realme-4
+Realme,Narzo 5,4,512,4500,75500,https://amazon.in/realme-5,https://flipkart.com/realme-5
+Realme,Narzo 6,12,256,6000,33000,https://amazon.in/realme-6,https://flipkart.com/realme-6
+Realme,Narzo 7,4,512,5500,60500,https://amazon.in/realme-7,https://flipkart.com/realme-7
+Realme,Narzo 8,4,64,4500,101000,https://amazon.in/realme-8,https://flipkart.com/realme-8
+Realme,Narzo 9,4,256,4500,110000,https://amazon.in/realme-9,https://flipkart.com/realme-9
+Realme,Narzo 10,6,64,5500,76500,https://amazon.in/realme-10,https://flipkart.com/realme-10
+Realme,Narzo 11,6,256,5000,106000,https://amazon.in/realme-11,https://flipkart.com/realme-11
+Realme,Narzo 12,6,64,4500,106500,https://amazon.in/realme-12,https://flipkart.com/realme-12
+Realme,Narzo 13,8,256,5000,34500,https://amazon.in/realme-13,https://flipkart.com/realme-13
+Realme,Narzo 14,12,256,4500,34500,https://amazon.in/realme-14,https://flipkart.com/realme-14
+Realme,Narzo 15,4,64,4500,118500,https://amazon.in/realme-15,https://flipkart.com/realme-15
+Vivo,V 1,12,64,6000,116000,https://amazon.in/vivo-1,https://flipkart.com/vivo-1
+Vivo,V 2,12,64,5000,94500,https://amazon.in/vivo-2,https://flipkart.com/vivo-2
+Vivo,V 3,4,128,5500,13500,https://amazon.in/vivo-3,https://flipkart.com/vivo-3
+Vivo,V 4,6,512,5000,77500,https://amazon.in/vivo-4,https://flipkart.com/vivo-4
+Vivo,V 5,12,512,4500,26000,https://amazon.in/vivo-5,https://flipkart.com/vivo-5
+Vivo,V 6,4,64,4500,60000,https://amazon.in/vivo-6,https://flipkart.com/vivo-6
+Vivo,V 7,6,256,5000,47000,https://amazon.in/vivo-7,https://flipkart.com/vivo-7
+Vivo,V 8,4,256,5000,47000,https://amazon.in/vivo-8,https://flipkart.com/vivo-8
+Vivo,V 9,6,512,4500,82000,https://amazon.in/vivo-9,https://flipkart.com/vivo-9
+Vivo,V 10,6,64,5500,52000,https://amazon.in/vivo-10,https://flipkart.com/vivo-10
+Vivo,V 11,8,128,5000,20500,https://amazon.in/vivo-11,https://flipkart.com/vivo-11
+Vivo,V 12,8,512,5500,39500,https://amazon.in/vivo-12,https://flipkart.com/vivo-12
+Vivo,V 13,8,64,4500,65500,https://amazon.in/vivo-13,https://flipkart.com/vivo-13
+Vivo,V 14,8,512,4500,56500,https://amazon.in/vivo-14,https://flipkart.com/vivo-14
+Vivo,V 15,6,256,5000,107000,https://amazon.in/vivo-15,https://flipkart.com/vivo-15
+Vivo,Y 1,12,128,6000,79000,https://amazon.in/vivo-1,https://flipkart.com/vivo-1
+Vivo,Y 2,6,64,5000,14000,https://amazon.in/vivo-2,https://flipkart.com/vivo-2
+Vivo,Y 3,6,64,4500,47000,https://amazon.in/vivo-3,https://flipkart.com/vivo-3
+Vivo,Y 4,6,128,5500,39000,https://amazon.in/vivo-4,https://flipkart.com/vivo-4
+Vivo,Y 5,4,512,5000,70500,https://amazon.in/vivo-5,https://flipkart.com/vivo-5
+Vivo,Y 6,12,512,5500,119000,https://amazon.in/vivo-6,https://flipkart.com/vivo-6
+Vivo,Y 7,6,64,6000,84000,https://amazon.in/vivo-7,https://flipkart.com/vivo-7
+Vivo,Y 8,4,128,5500,113000,https://amazon.in/vivo-8,https://flipkart.com/vivo-8
+Vivo,Y 9,4,256,5500,101000,https://amazon.in/vivo-9,https://flipkart.com/vivo-9
+Vivo,Y 10,8,512,6000,38500,https://amazon.in/vivo-10,https://flipkart.com/vivo-10
+Vivo,Y 11,6,256,5500,94500,https://amazon.in/vivo-11,https://flipkart.com/vivo-11
+Vivo,Y 12,8,128,6000,111500,https://amazon.in/vivo-12,https://flipkart.com/vivo-12
+Vivo,Y 13,6,128,6000,82500,https://amazon.in/vivo-13,https://flipkart.com/vivo-13
+Vivo,Y 14,4,256,5000,81000,https://amazon.in/vivo-14,https://flipkart.com/vivo-14
+Vivo,Y 15,6,512,5500,33500,https://amazon.in/vivo-15,https://flipkart.com/vivo-15
+Oppo,Reno 1,8,512,4500,82000,https://amazon.in/oppo-1,https://flipkart.com/oppo-1
+Oppo,Reno 2,6,64,5500,48500,https://amazon.in/oppo-2,https://flipkart.com/oppo-2
+Oppo,Reno 3,6,128,5000,38000,https://amazon.in/oppo-3,https://flipkart.com/oppo-3
+Oppo,Reno 4,8,128,5500,13500,https://amazon.in/oppo-4,https://flipkart.com/oppo-4
+Oppo,Reno 5,8,64,6000,98500,https://amazon.in/oppo-5,https://flipkart.com/oppo-5
+Oppo,Reno 6,4,512,6000,50000,https://amazon.in/oppo-6,https://flipkart.com/oppo-6
+Oppo,Reno 7,6,64,5500,112000,https://amazon.in/oppo-7,https://flipkart.com/oppo-7
+Oppo,Reno 8,8,128,6000,119000,https://amazon.in/oppo-8,https://flipkart.com/oppo-8
+Oppo,Reno 9,12,256,5000,62500,https://amazon.in/oppo-9,https://flipkart.com/oppo-9
+Oppo,Reno 10,12,256,6000,12500,https://amazon.in/oppo-10,https://flipkart.com/oppo-10
+Oppo,Reno 11,8,64,4500,91500,https://amazon.in/oppo-11,https://flipkart.com/oppo-11
+Oppo,Reno 12,6,256,4500,83000,https://amazon.in/oppo-12,https://flipkart.com/oppo-12
+Oppo,Reno 13,8,512,5500,30500,https://amazon.in/oppo-13,https://flipkart.com/oppo-13
+Oppo,Reno 14,6,64,5500,47000,https://amazon.in/oppo-14,https://flipkart.com/oppo-14
+Oppo,Reno 15,6,256,6000,115500,https://amazon.in/oppo-15,https://flipkart.com/oppo-15
+Oppo,A 1,12,128,6000,59500,https://amazon.in/oppo-1,https://flipkart.com/oppo-1
+Oppo,A 2,6,256,6000,54000,https://amazon.in/oppo-2,https://flipkart.com/oppo-2
+Oppo,A 3,8,64,6000,56000,https://amazon.in/oppo-3,https://flipkart.com/oppo-3
+Oppo,A 4,12,256,4500,11000,https://amazon.in/oppo-4,https://flipkart.com/oppo-4
+Oppo,A 5,6,64,6000,81000,https://amazon.in/oppo-5,https://flipkart.com/oppo-5
+Oppo,A 6,8,64,6000,14500,https://amazon.in/oppo-6,https://flipkart.com/oppo-6
+Oppo,A 7,4,64,5500,58500,https://amazon.in/oppo-7,https://flipkart.com/oppo-7
+Oppo,A 8,6,256,6000,77500,https://amazon.in/oppo-8,https://flipkart.com/oppo-8
+Oppo,A 9,12,256,5500,77500,https://amazon.in/oppo-9,https://flipkart.com/oppo-9
+Oppo,A 10,12,512,5500,22000,https://amazon.in/oppo-10,https://flipkart.com/oppo-10
+Oppo,A 11,4,512,5500,91500,https://amazon.in/oppo-11,https://flipkart.com/oppo-11
+Oppo,A 12,4,512,5000,86500,https://amazon.in/oppo-12,https://flipkart.com/oppo-12
+Oppo,A 13,6,256,4500,105500,https://amazon.in/oppo-13,https://flipkart.com/oppo-13
+Oppo,A 14,8,512,5000,52000,https://amazon.in/oppo-14,https://flipkart.com/oppo-14
+Oppo,A 15,6,512,5000,107000,https://amazon.in/oppo-15,https://flipkart.com/oppo-15
